@@ -20,8 +20,6 @@ https://www.kaggle.com/datasets/usdot/flight-delays
 
 <img src=https://github.com/WilliamJMora/2015FlightDashboard/blob/main/Pictures/PowerBI4.png>
 
-<img src=https://github.com/WilliamJMora/2015FlightDashboard/blob/main/Pictures/PowerBI5.png>
-
 ### ER Diagram
 
 <img src=https://github.com/WilliamJMora/2015FlightDashboard/blob/main/Pictures/Relationships.png>
